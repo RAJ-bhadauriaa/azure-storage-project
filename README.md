@@ -181,6 +181,9 @@ This project involves managing files in an Azure Storage Account, setting access
    - In Azure Storage Explorer, navigate to the container.
    - Click "Upload."
    - Select the signed document and click "Upload."
+  
+#  when the user upload the internship letter back to Container ,admin will get the alert in his/her email![Screenshot 2024-08-16 044329](https://github.com/user-attachments/assets/4473d033-cd33-4061-9061-b588598ea770)
+
 
 
 
